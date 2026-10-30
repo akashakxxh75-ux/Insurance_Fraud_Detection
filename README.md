@@ -31,7 +31,7 @@
 - Incident Severity
 - Collision Type
 
-- Note: `* Model is good at detecting fraud (high recall) *`
+- Note: `Model is good at detecting fraud (high recall)`
 
 ## Tools Used:
 - Python, Pandas, Scikit-learn, Matplotlib
