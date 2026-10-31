@@ -34,6 +34,7 @@
 - Note: `Model is good at detecting fraud (high recall)`
 
 ## Decision Tree:
+![Generated Decision Tree](decision_tree.png)
 
 ## Top features for classification
 
