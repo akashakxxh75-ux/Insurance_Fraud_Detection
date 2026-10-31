@@ -36,7 +36,8 @@
 ## Decision Tree:
 ![Generated Decision Tree](decision_tree.png)
 
-## Top features for classification
+## Important Features For Classification:
+![Top Features](feature_importance.png)
 
 ## Tools Used:
 - Python, Pandas, Scikit-learn, Matplotlib
